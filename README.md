@@ -1,4 +1,4 @@
-![Fresume Preview](https://your-screenshot-link-here)  
+![Fresume Preview](https://github.com/FnextOnline/Fresume/blob/main/Fresume_Banner_Image.png)  
 
 Fresume — Powered by Fnext
 
