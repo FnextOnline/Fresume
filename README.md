@@ -52,6 +52,6 @@ Fresume provides the tools you need to stand out in today’s competitive job ma
 - **Styling:** TailwindCSS / Custom CSS  
 - **Hosting:** Netlify Hosting  
 - **Version Control:** Git & GitHub  
-- **Deployment URL:** [https://fresume-8e633.web.app](https://fresumeonline.netlify.app)
+- **Deployment URL:** (https://fresumeonline.netlify.app)
 
 ---
